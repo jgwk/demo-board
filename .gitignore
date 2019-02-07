@@ -3,3 +3,5 @@
 /.classpath
 /.project
 /board.mv.db
+/study.mv.db
+/study.trace.db
