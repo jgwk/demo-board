@@ -1,7 +1,9 @@
 /target/
 /.settings/
-/.classpath
-/.project
+/.idea/
+/.classpath/
+/.project/
 /board.mv.db
 /study.mv.db
 /study.trace.db
+
